@@ -1,0 +1,20 @@
+{
+  "name": "tiptap-extension-ordered-list",
+  "version": "1.0.0",
+  "description": "Tiptap ordered list extension with custom list-style-type support.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "ul",
+    "ordered list"
+  ],
+  "author": "kid-1912",
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/extension-ordered-list": "^2.2.3"
+  }
+}
