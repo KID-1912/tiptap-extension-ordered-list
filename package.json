@@ -13,6 +13,11 @@
     "ordered list"
   ],
   "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-ordered-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-ordered-list.git"
+  },
   "license": "ISC",
   "dependencies": {
     "@tiptap/extension-ordered-list": "^2.2.3"
